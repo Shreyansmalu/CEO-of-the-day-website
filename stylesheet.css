@@ -1,0 +1,87 @@
+.header3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: gray;
+  background-size: 50px 100px;
+  padding: 0px;
+}
+.header2 {
+  margin: 10px;
+  background-color: grey;
+}
+body {
+  background-image: url("uni6.PNG");
+  background-repeat: no-repeat;
+  background-size: 4200px 4800px;
+  margin: 0px;
+}
+.title {
+  color: white;
+  display: flex;
+  margin-left: 360px;
+}
+.title1 {
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+.info {
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+.info p {
+  width: 800px;
+  text-align: justify;
+}
+.info2 {
+  color: white;
+  display: flex;
+  justify-content: flex-start;
+  
+}
+.stars {
+  display: flex;
+  justify-content: space-evenly;
+}
+.stars img {
+  margin-left: 80px;
+}
+.stars2 {
+  color: white;
+  width: 400px;
+  text-align: justify;
+}
+.images {
+  display: flex;  
+  justify-content: space-evenly;
+}
+.text1 {
+  display: flex;
+  justify-content: space-evenly;
+}
+.images2 {
+  display: flex;
+  justify-content: space-evenly;
+}
+input {
+  border: none;
+  background: none;
+  color: white;
+  font-size: 20px;
+  width: 45px;
+  margin-left: 20px;
+}
+.button img {
+  width: 50px;
+  height: 50px;
+}
+button {
+  border: none;
+  background: none;
+}
